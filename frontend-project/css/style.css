@@ -1,0 +1,15 @@
+body {
+    max-width: 500px;
+    margin: auto;
+    background-color: rgb(238, 241, 240);
+    padding: 10px;
+    text-align: center
+    
+}
+
+#click-btn {
+ border-radius: 30px;
+    
+}
+
+#click-btn:hover {background-color:rgb(211, 224, 26)}
